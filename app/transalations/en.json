@@ -1,0 +1,49 @@
+{
+  "Login": {
+    "Welcome" : "Welcome",
+    "subText": "Enter your details to get sign in to your account.",
+    "email": "Email",
+    "emailPlaceHolder": "Enter your email address",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email address",
+    "password": "Password",
+    "passwordPlaceHolder": "Enter Password",
+    "passwordRequired": "Password is required",
+    "passwordInvalid": "Password must be at least 8 characters",
+    "rememberText": "Remember me",
+    "forgotPswText": "Forgot Password?",
+    "loginText": "Login",
+    "orText": "Or",
+    "loginWithBio": "Login using Biometrics",
+    "error": "An unexpected error occurred"
+  },
+  "ForgotPsw": {
+    "titleText": "Forgot your password?",
+    "subText": "Enter your email so that we can send you password reset link",
+    "verifyBtn": "Verify",
+    "backToLogin": "Back to Login"
+  },
+  "VerifyOtp": {
+    "titleText": "Verification code",
+    "subText": "Enter verification code to proceed further",
+    "verifyBtn": "Verify code",
+    "notGetOTP": "Didn’t receive an email?",
+    "resendCodeText": "Resend Code",
+    "inText": "in"
+  },
+  "ResetPsw" : {
+    "titleText": "Reset password",
+    "subText": "Please kindly set your new password",
+    "newPsw": "New password",
+    "newPswPlaceHolder": "Enter new Password",
+    "confirmPsw": "Confirm new password",
+    "confirmPswPlaceHolder": "Enter confirm Password",
+    "resetPsw": "Reset password",
+    "pswChanged": "Password changed!",
+    "successSubText": "You've successfully completed your password reset!",
+    "loginNowText": "Login now"
+  },
+  "dashboard": {
+    "welcome": "Welcome to the Dashboard!"
+  }
+}
